@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirolos Esmat Metry</h1>
 <h3 align="center">A passionate DevOps Cloud and Programmer 🚀. Graduate of the Faculty of Computer Science, AASTMT University 🎓.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR2ajcxd2JwcWZxMWFvb3U4Nmg3djNhN3p1bjJta2djajlrb3lteCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirolos-esmat&label=Profile%20views&color=0e75b6&style=flat" alt="kirolos-esmat" /> </p>
 
