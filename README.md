@@ -7,9 +7,13 @@
 
 - 🔭 Seeking Summer Internship in **DevOps and Cloud Computing**
 
+- 🌱 I’m currently learning **Ai, Machine learning**
+
 - 📫 How to reach me **kirolos.esmat10@gmail.com**
 
-- 📄 Know about my experiences [Click me](https://tinyurl.com/23n4scxz)
+- 📄 Know about my experiences [Click Me](https://tinyurl.com/23n4scxz)
+
+- ⚡ Fun fact **I love learning new technologies, meeting new people, and discussing technology or football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
