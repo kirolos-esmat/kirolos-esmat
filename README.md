@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kirolos.esmat10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V5H7TXU3-PLCdIxUU7aIKiJcdZ6k-L4x/view?usp=sharing](https://drive.google.com/file/d/1V5H7TXU3-PLCdIxUU7aIKiJcdZ6k-L4x/view?usp=sharing)
+- 📄 Know about my experiences [Click me](https://tinyurl.com/23n4scxz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
