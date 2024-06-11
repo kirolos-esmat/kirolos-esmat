@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love learning new technologies, meeting new people, and discussing technology or football.**
 
-### 🧰 Connect with me:
+### 📫 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/kirolosesmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirolosesmat" height="30" width="40" /></a>
