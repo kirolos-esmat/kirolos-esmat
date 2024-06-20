@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Ai, Machine learning**
 
-- 📫 How to reach me [E-Mail Me](mailto:kirolos.esmat10@gmail.com)
+- 📫 How to reach me [Mail Me](mailto:kirolos.esmat10@gmail.com)
 
-- 📄 Know about my experiences [Click Me](https://tinyurl.com/23n4scxz)
+- 📄 Know about my experiences [Click Here](https://tinyurl.com/23n4scxz)
 
 - ⚡ Fun fact **I love learning new technologies, meeting new people, and discussing technology or football.**
 
