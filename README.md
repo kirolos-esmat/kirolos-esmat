@@ -12,12 +12,12 @@
 
 ## 🧠 About Me
 
-- 🎓 CS graduate from AASTMT University with a minor in Information Systems
-- 💡 Passionate about automation, scalable infrastructure, and real-world apps
-- 🔭 Currently building [Skrew Calculator](https://github.com/kirolos-esmat/Skrow-Calculator) — a multiplayer scorekeeping mobile app
-- 📱 Developer of **Cyber Park** (A+ grad project, Flutter + Firebase + AR)
-- 🌱 Learning AI/ML and improving my DevOps pipelines
-- ⚡ Fun fact: I love ancient Egyptian art, football, and late-night debugging
+- 🎓 CS graduate from AASTMT University with a minor in Information Systems  
+- 💡 Passionate about automation, scalable infrastructure, and real-world apps  
+- 🔭 Currently building [Skrew Calculator](https://github.com/kirolos-esmat/skrew-calculator) — a multiplayer scorekeeping mobile app  
+- 📱 Developer of **Cyber Park** (A+ grad project, Flutter + Firebase + AR)  
+- 🌱 Learning AI/ML and improving my DevOps pipelines  
+- ⚡ Fun fact: I love ancient Egyptian art, football, and late-night debugging  
 
 ---
 
@@ -27,10 +27,10 @@
 
 Score-tracking mobile app for multiplayer board games
 
-- Minimalist design with custom UI & ranking logic
-- Game history with reset & session tracking
-- Built using Flutter + Firebase
-- 🔗 [GitHub Repo]([https://github.com/kirolos-esmat/Skrow-Calculator](https://github.com/kirolos-esmat/skrew-calculator))
+- Minimalist design with custom UI & ranking logic  
+- Game history with reset & session tracking  
+- Built using Flutter + Firebase  
+- 🔗 [GitHub Repo](https://github.com/kirolos-esmat/skrew-calculator)  
 
 ---
 
@@ -41,7 +41,7 @@ Score-tracking mobile app for multiplayer board games
 **CI/CD**: GitHub Actions, Bitrise, Jenkins, Bash  
 **Web Dev**: HTML, CSS, JS, PHP  
 **Tools**: Linux, Git, CLI, Grafana, TrueNAS  
-**Languages**: Python, Java, Bash, JavaScript
+**Languages**: Python, Java, Bash, JavaScript  
 
 ---
 
@@ -49,7 +49,7 @@ Score-tracking mobile app for multiplayer board games
 
 📧 Email: [kirolos.esmat10@gmail.com](mailto:kirolos.esmat10@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/kirolosesmat](https://linkedin.com/in/kirolosesmat)  
-📄 Resume: [Download Here](https://tinyurl.com/23n4scxz)
+📄 Resume: [Download Here](https://tinyurl.com/23n4scxz)  
 
 ---
 
