@@ -30,7 +30,7 @@ Score-tracking mobile app for multiplayer board games
 - Minimalist design with custom UI & ranking logic
 - Game history with reset & session tracking
 - Built using Flutter + Firebase
-- 🔗 [GitHub Repo](https://github.com/kirolos-esmat/Skrow-Calculator)
+- 🔗 [GitHub Repo]([https://github.com/kirolos-esmat/Skrow-Calculator](https://github.com/kirolos-esmat/skrew-calculator))
 
 ---
 
@@ -56,4 +56,3 @@ Score-tracking mobile app for multiplayer board games
 ## 📊 GitHub Stats
 
 ![Kirolos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirolos-esmat&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirolos-esmat&theme=default)
